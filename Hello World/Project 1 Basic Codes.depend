@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1514140574 source:f:\c programming\project 1 basic codes\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1547516723 source:f:\c programming\project 1 basic codes\basic program.c
+	<stdio.h>
+
+1547518453 source:f:\c programming\project 1 basic codes\basic_program_my_name .c
+	<stdio.h>
+
