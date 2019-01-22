@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1547876440 source:f:\c programming\convert farenheight to celcius\main.c
+	<stdio.h>
+	<stdlib.h>
+
