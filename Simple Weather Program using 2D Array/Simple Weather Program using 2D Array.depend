@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1548360573 source:f:\c programming\simple weather program using 2d array\main.c
+	<stdio.h>
+	<stdlib.h>
+
