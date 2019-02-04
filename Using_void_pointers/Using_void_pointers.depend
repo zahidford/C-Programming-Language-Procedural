@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1549241906 source:f:\c programming\using_void_pointers\main.c
+	<stdio.h>
+	<stdlib.h>
+

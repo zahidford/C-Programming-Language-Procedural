@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1548861142 source:f:\c programming\simple bubble sorting\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

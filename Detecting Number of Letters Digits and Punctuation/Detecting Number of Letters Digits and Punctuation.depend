@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1548780863 source:f:\c programming\detecting number of letters digits and punctuation\main.c
+	<stdio.h>
+	<stdlib.h>
+

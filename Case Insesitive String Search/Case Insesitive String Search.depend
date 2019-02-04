@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1548787375 source:f:\c programming\case insesitive string search\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

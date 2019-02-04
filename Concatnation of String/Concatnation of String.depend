@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1548853535 source:f:\c programming\concatnation of string\main.c
+	<stdio.h>
+	<stdlib.h>
+
