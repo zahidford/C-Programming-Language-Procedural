@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1549650989 source:f:\c programming\convert_to_upper_case\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+

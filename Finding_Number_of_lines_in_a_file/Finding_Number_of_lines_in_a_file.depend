@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1549649074 source:f:\c programming\finding_number_of_lines_in_a_file\main.c
+	<stdio.h>
+	<stdlib.h>
+
